@@ -1,5 +1,6 @@
 # Transfer-Learning
-Siraj's Intro Lesson
+Siraj's Intro Lesson:
+A custom image classifier that you will train on the fly in the browser using TensorFlow.js
 
 Lesson learn:
 1) How to load pretrained MobileNet model and make a prediction on new data
